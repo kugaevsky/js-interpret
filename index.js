@@ -42,6 +42,7 @@ const extensions = {
   '.co': 'coco',
   '.coffee': ['coffee-script/register', 'coffee-script'],
   '.coffee.md': ['coffee-script/register', 'coffee-script'],
+  '.coffee2': ['coffeescript/register', 'coffeescript'],
   '.csv': 'require-csv',
   '.eg': 'earlgrey/register',
   '.iced': ['iced-coffee-script/register', 'iced-coffee-script'],
